@@ -1,6 +1,6 @@
 # TfNSW Transit Lakehouse
 
-A Databricks lakehouse for Sydney Trains GTFS data (static timetables and realtime vehicle positions and trip updates) from Transport for NSW Open Data. It follows a medallion design on Unity Catalog, uses Lakeflow Declarative Pipelines (LDP), is deployed with Databricks Asset Bundles, provisioned with Terraform, and promoted through gated CI/CD.
+A Databricks lakeho for Sydney Trains GTFS data (static timetables and realtime vehicle positions and trip updates) from Transport for NSW Open Data. It follows a medallion design on Unity Catalog, uses Lakeflow Declarative Pipelines (LDP), is deployed with Databricks Asset Bundles, provisioned with Terraform, and promoted through gated CI/CD.
 
 > Contributions are not open at this time.
 
